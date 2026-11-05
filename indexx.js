@@ -1,0 +1,1 @@
+console.log("Hello Obright; Welcome to my Palace!");
